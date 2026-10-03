@@ -1,27 +1,27 @@
 # Authentico
 
-**Configuratore di offerte commerciali**
+**Commercial quote configurator**
 
-## Il progetto
+## The project
 
-Uno strumento per preparare proposte commerciali Authentico attraverso un percorso di configurazione guidato. Le scelte dell'utente vengono raccolte in una proposta consultabile ed esportabile.
+A tool for preparing Authentico commercial proposals through a guided configuration process. The user's choices are assembled into a proposal that can be reviewed and exported.
 
-## Il percorso dell'utente
+## User journey
 
-1. Inserisce le informazioni necessarie alla configurazione.
-2. Consulta la proposta calcolata e il riepilogo dell'offerta.
-3. Esporta la proposta in PDF.
+1. Enter the information needed to configure the proposal.
+2. Review the calculated proposal and quote summary.
+3. Export the proposal as a PDF.
 
-## Il lavoro
+## The work
 
-Il progetto comprende l'interfaccia di configurazione, la composizione del riepilogo e la generazione del documento finale. Il percorso collega le informazioni inserite dall'utente al risultato che deve poter utilizzare e condividere.
+The project covers the configuration interface, the quote summary and final document generation. The workflow connects the user's input to a result they can use and share.
 
-## Funzionalità principali
+## Key features
 
-- Configurazione guidata della proposta.
-- Calcolo e riepilogo dell'offerta.
-- Esportazione in PDF.
+- Guided proposal configuration.
+- Quote calculation and summary.
+- PDF export.
 
-Questa scheda presenta le funzionalità del prodotto. Il codice sorgente è conservato in un repository privato.
+This case study presents the product's features. The source code is kept in a private repository.
 
-[Torna ai progetti](../README.md)
+[Back to projects](../README.md)

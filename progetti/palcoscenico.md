@@ -1,29 +1,29 @@
 # Palcoscenico Dancewear
 
-**Esperienza e-commerce · Progetto in sviluppo**
+**E-commerce experience · Work in progress**
 
-## Il progetto
+## The project
 
-Un'esperienza di acquisto dedicata all'abbigliamento per la danza, pensata per privati, scuole e rivenditori. Il percorso comprende la consultazione del catalogo, l'esplorazione dei prodotti e la preparazione del carrello.
+A dancewear shopping experience designed for individual customers, dance schools and retailers. The journey covers browsing the catalog, exploring products and building a shopping cart.
 
-## Il percorso dell'utente
+## User journey
 
-1. Esplora il catalogo e le categorie.
-2. Consulta le informazioni del prodotto e sceglie le varianti disponibili.
-3. Si orienta nella scelta della taglia.
-4. Aggiunge i prodotti al carrello e ne rivede il riepilogo.
+1. Explore the catalog and product categories.
+2. Review product information and select available variants.
+3. Use the size guidance to choose a size.
+4. Add products to the cart and review the order summary.
 
-## Il lavoro
+## The work
 
-Il progetto comprende la presentazione del catalogo, le schede prodotto e le interazioni di acquisto. L'esperienza tiene conto delle esigenze dei privati e degli acquisti di scuole e rivenditori.
+The project covers catalog presentation, product pages and shopping interactions. The experience considers both individual customers and purchases by dance schools and retailers.
 
-## Funzionalità principali
+## Key features
 
-- Catalogo e navigazione per categoria.
-- Schede prodotto e scelta delle varianti.
-- Guida alle taglie.
-- Carrello e riepilogo dei prodotti.
+- Product catalog and category navigation.
+- Product pages and variant selection.
+- Size guidance.
+- Shopping cart and product summary.
 
-La scheda si riferisce alla versione in sviluppo. Il codice sorgente è conservato in un repository privato.
+This case study describes the version currently in development. The source code is kept in a private repository.
 
-[Torna ai progetti](../README.md)
+[Back to projects](../README.md)

@@ -1,32 +1,32 @@
-# Antonio Verde · Progetti web
+# Antonio Verde · Web Projects
 
-Una selezione di siti, esperienze di acquisto e strumenti digitali che ho sviluppato per esigenze concrete di business.
+A selection of websites, shopping experiences and digital tools I have developed for practical business needs.
 
-## Progetti selezionati
+## Selected projects
 
-| Progetto | Ambito | Presentazione |
+| Project | Focus | Case study |
 | --- | --- | --- |
-| **Authentico** | Configuratore di offerte commerciali | [Scopri il progetto](progetti/authentico.md) |
-| **Palcoscenico Dancewear** | Esperienza e-commerce per privati, scuole e rivenditori | [Scopri il progetto](progetti/palcoscenico.md) |
+| **Authentico** | Commercial quote configurator | [Explore the project](progetti/authentico.md) |
+| **Palcoscenico Dancewear** | E-commerce experience for individual customers, dance schools and retailers | [Explore the project](progetti/palcoscenico.md) |
 
 ### Authentico
 
-Un configuratore che accompagna la preparazione di una proposta commerciale: raccoglie le scelte dell'utente, compone l'offerta e permette di esportarla in PDF.
+A configurator that guides the preparation of a commercial proposal: it collects the user's choices, assembles the quote and supports PDF export.
 
 ### Palcoscenico Dancewear
 
-Un progetto e-commerce dedicato al mondo della danza, con catalogo, scelta delle varianti, guida alle taglie e carrello. L'esperienza considera sia gli acquisti dei privati sia le esigenze di scuole e rivenditori. Il progetto è in sviluppo.
+An e-commerce project for dancewear, with a product catalog, variant selection, size guidance and a shopping cart. The experience supports both individual purchases and the needs of dance schools and retailers. The project is in development.
 
-## Come lavoro
+## My approach
 
-Parto dai percorsi che le persone devono completare: trovare un prodotto, scegliere una variante o preparare una proposta. Organizzo le informazioni e sviluppo le interazioni necessarie a rendere questi percorsi chiari e coerenti.
+I start with the tasks people need to complete: finding a product, selecting a variant or preparing a proposal. I organize the information and build the interactions needed to make those journeys clear and consistent.
 
-Le schede presentano il prodotto e le sue funzionalità. I codici sorgente dei progetti sono custoditi in repository privati.
+These case studies present the products and their features. Project source code is kept in private repositories.
 
-## Profilo
+## Profile
 
-[Antonio Verde su GitHub](https://github.com/Antonio-Verde)
+[Antonio Verde on GitHub](https://github.com/Antonio-Verde)
 
 ---
 
-© 2026 Antonio Verde. Tutti i diritti riservati sui testi originali di questa presentazione. I marchi e le denominazioni citati appartengono ai rispettivi titolari.
+© 2026 Antonio Verde. All rights reserved for the original text in these case studies. Referenced trademarks and brand names belong to their respective owners.
